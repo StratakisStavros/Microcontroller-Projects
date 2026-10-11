@@ -6,7 +6,9 @@ A compact, two-layer STM32F103C8T6 board for connecting 3.3 V I²C peripherals, 
 
 **Design revision 0.1 · KiCad 9 · 40 × 28.75 mm · 2 copper layers**
 
-[Schematic PDF](docs/schematic/stm32-i2c-board.pdf) · [Design notes](docs/design.md) · [Pinout](docs/interfaces.md) · [Verification](validation/README.md) · [Manufacturing outputs](manufacturing/README.md)
+[Project brief (5-page PDF)](docs/stm32-i2c-project-brief.pdf) · [Schematic PDF](docs/schematic/stm32-i2c-board.pdf) · [Design notes](docs/design.md) · [Pinout](docs/interfaces.md) · [Verification](validation/README.md) · [Manufacturing outputs](manufacturing/README.md)
+
+For a quick introduction, the **[project brief](docs/stm32-i2c-project-brief.pdf)** explains the board's purpose, operating architecture, support circuitry, PCB layout and verification status, with figures and links to the detailed evidence.
 
 ## Design at a glance
 

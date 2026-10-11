@@ -10,7 +10,7 @@ A compact **40 × 28.75 mm, two-layer STM32F103 board** with USB power, 3.3 V re
 
 **Status:** routed CAD design; ERC and DRC report zero violations with the committed settings. Physical bring-up and firmware validation are pending.
 
-[Explore the design →](STM32-I2C-Development-Board/) · [Schematic](STM32-I2C-Development-Board/docs/schematic/stm32-i2c-board.pdf) · [Verification evidence](STM32-I2C-Development-Board/validation/)
+[Project brief (5-page PDF)](STM32-I2C-Development-Board/docs/stm32-i2c-project-brief.pdf) · [Explore the design →](STM32-I2C-Development-Board/) · [Schematic](STM32-I2C-Development-Board/docs/schematic/stm32-i2c-board.pdf) · [Verification evidence](STM32-I2C-Development-Board/validation/)
 
 ## Arduino Sensor Visualization and Logging
 
