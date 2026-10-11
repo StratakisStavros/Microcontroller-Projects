@@ -1,0 +1,4 @@
+(fp_lib_table
+ (version 7)
+ (lib (name "Board_Local")(type "KiCad")(uri "${KIPRJMOD}/Board_Local.pretty")(options "")(descr "Project-local mechanical and silkscreen variants"))
+)

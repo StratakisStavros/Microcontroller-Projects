@@ -1,0 +1,23 @@
+*.md text eol=lf
+*.py text eol=lf
+*.ino text eol=lf
+*.pde text eol=lf
+*.svg text eol=lf
+*.json text eol=lf
+*.kicad_sch text eol=lf
+*.kicad_pcb text eol=lf
+*.kicad_pro text eol=lf
+*.kicad_mod text eol=lf
+*.step binary
+*.stp binary
+*.png binary
+*.pdf binary
+**/fp-lib-table text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+# Generated previews and fabrication outputs should not dominate code review.
+STM32-I2C-Development-Board/docs/images/*.svg linguist-generated=true
+STM32-I2C-Development-Board/docs/schematic/*.svg linguist-generated=true
+STM32-I2C-Development-Board/manufacturing/gerbers/* linguist-generated=true
+STM32-I2C-Development-Board/manufacturing/drill/* linguist-generated=true

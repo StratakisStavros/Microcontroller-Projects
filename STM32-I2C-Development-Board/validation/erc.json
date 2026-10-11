@@ -1,0 +1,14 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-10-11T14:07:33+0200",
+    "kicad_version": "9.0.6",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/c2bc9c1f-6b7b-42a4-8857-4a7f3be8eded",
+            "violations": []
+        }
+    ],
+    "source": "stm32-i2c-board.kicad_sch"
+}

@@ -1,0 +1,17 @@
+References,Quantity,Value,Footprint,Procurement status
+"C1, C2, C3, C4, C9",5,100n,Capacitor_SMD:C_0402_1005Metric,Select and verify exact manufacturer part
+C5,1,10u,Capacitor_SMD:C_0603_1608Metric,Select and verify exact manufacturer part
+C6,1,10n,Capacitor_SMD:C_0402_1005Metric,Select and verify exact manufacturer part
+"C7, C8",2,1u,Capacitor_SMD:C_0402_1005Metric,Select and verify exact manufacturer part
+"C10, C11",2,10p,Capacitor_SMD:C_0402_1005Metric,Select and verify exact manufacturer part
+"C12, C13",2,22u,Capacitor_SMD:C_0805_2012Metric,Select and verify exact manufacturer part
+D1,1,LED,LED_SMD:LED_0603_1608Metric,Select and verify exact manufacturer part
+FB1,1,120R,Inductor_SMD:L_0603_1608Metric,Select and verify exact manufacturer part
+J1,1,USB_B_Micro,Board_Local:USB_Micro_B,Select and verify exact manufacturer part
+"J2, J3, J4",3,Conn_01x04_Pin,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,Select and verify exact manufacturer part
+R1,1,10k,Resistor_SMD:R_0402_1005Metric,Select and verify exact manufacturer part
+"R2, R3, R4, R5",4,1k5,Resistor_SMD:R_0402_1005Metric,Select and verify exact manufacturer part
+SW1,1,SW_SPDT,Board_Local:SW_SPDT_PCM12,Select and verify exact manufacturer part
+U1,1,STM32F103C8Tx,Package_QFP:LQFP-48_7x7mm_P0.5mm,Select and verify exact manufacturer part
+U2,1,AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,Select and verify exact manufacturer part
+Y1,1,16MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,Select and verify exact manufacturer part

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1070" height="860.0" viewBox="0 0 1070 860.0">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif">
+<text x="55" y="42" font-size="27" font-weight="700" fill="#152c3a">STM32 I²C board · component map</text>
+<text x="55" y="69" font-size="16" fill="#475569">Top view · footprint origins · match pin 1 to the square PCB pad</text>
+<rect x="55" y="95" width="960" height="690.0" rx="60" fill="#e8f1ed" stroke="#365e4f" stroke-width="3"/>
+<rect x="264.19999999999993" y="438.67999999999984" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="284.19999999999993" y="455.67999999999984" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C11</text>
+<rect x="264.19999999999993" y="384.67999999999984" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="284.19999999999993" y="401.67999999999984" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C10</text>
+<circle cx="943.0" cy="713.0" r="26.4" fill="#f8fafc" stroke="#64748b"/>
+<text x="943.0" y="718.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">H3</text>
+<rect x="862.0399999999998" y="525.8000000000001" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="882.0399999999998" y="542.8000000000001" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">R3</text>
+<rect x="479.4799999999999" y="647.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="499.4799999999999" y="664.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">R5</text>
+<rect x="312.19999999999993" y="450.67999999999984" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="332.19999999999993" y="467.67999999999984" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C6</text>
+<rect x="659.0" y="377.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="679.0" y="394.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">R2</text>
+<rect x="906.1999999999999" y="383.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="926.1999999999999" y="400.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">J1</text>
+<rect x="167.0" y="305.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="187.0" y="322.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">R1</text>
+<circle cx="943.0" cy="167.0" r="26.4" fill="#f8fafc" stroke="#64748b"/>
+<text x="943.0" y="172.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">H2</text>
+<rect x="813.8000000000001" y="611.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="833.8000000000001" y="628.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C13</text>
+<rect x="89.0" y="329.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="109.0" y="346.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">SW1</text>
+<rect x="347.0" y="569.8999999999999" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="367.0" y="586.8999999999999" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">FB1</text>
+<rect x="663.8000000000001" y="491.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="683.8000000000001" y="508.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C12</text>
+<rect x="305.0" y="347.4799999999999" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="325.0" y="364.4799999999999" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C4</text>
+<rect x="395.60000000000014" y="245.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="415.60000000000014" y="262.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C5</text>
+<circle cx="127.0" cy="713.0" r="26.4" fill="#f8fafc" stroke="#64748b"/>
+<text x="127.0" y="718.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">H4</text>
+<rect x="869.0" y="611.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="889.0" y="628.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">D1</text>
+<rect x="401.1199999999999" y="281.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="421.1199999999999" y="298.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C1</text>
+<rect x="698.6000000000001" y="626.6000000000001" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="718.6000000000001" y="643.6000000000001" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">U2</text>
+<rect x="461.0" y="425.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="481.0" y="442.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">U1</text>
+<rect x="287.4799999999999" y="593.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="307.4799999999999" y="610.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C8</text>
+<rect x="449.0" y="143.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="469.0" y="160.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">J3</text>
+<rect x="611.0" y="364.5200000000001" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="631.0" y="381.5200000000001" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C2</text>
+<rect x="425.2400000000001" y="647.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="445.2400000000001" y="664.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">R4</text>
+<rect x="750.44" y="143.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="770.44" y="160.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">J2</text>
+<rect x="287.4799999999999" y="545.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="307.4799999999999" y="562.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C7</text>
+<rect x="407.0" y="575.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="427.0" y="592.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C9</text>
+<rect x="335.0" y="713.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="355.0" y="730.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">J4</text>
+<rect x="205.39999999999986" y="409.39999999999986" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="225.39999999999986" y="426.39999999999986" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">Y1</text>
+<circle cx="127.0" cy="167.0" r="26.4" fill="#f8fafc" stroke="#64748b"/>
+<text x="127.0" y="172.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">H1</text>
+<rect x="532.5200000000001" y="575.0" width="40" height="24" rx="4" fill="white" stroke="#75978b"/>
+<text x="552.5200000000001" y="592.0" text-anchor="middle" font-size="15" font-weight="700" fill="#173d31">C3</text>
+<text x="55" y="829.0" font-size="16" fill="#475569">J1 USB · J2 SWD · J3 UART · J4 I²C · U1 MCU · U2 regulator · SW1 BOOT0</text>
+</g></svg>
